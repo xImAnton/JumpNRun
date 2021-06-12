@@ -20,17 +20,17 @@ You can place a sign that displays the current highscore holder.
 ### Resetting all times of a Jump'n'Run
 To reset a Jump'n'Run for all players, use the `/jnr reset` command.
 
-**Syntax: ** `/jnr reset <JNR-Name>`
-**Permission: ** `jumpnrun.command.reset`
+**Syntax:** `/jnr reset <JNR-Name>`
+**Permission:** `jumpnrun.command.reset`
 
 ### Removing the current highscore holder of a Jump'n'Run
 To reset the current highscore and changing to the second best time, use the `/jnr resethighscore` command.
 
-**Syntax: ** `/jnr resethighscore <JNR-Name>`
-**Permission: ** `jumpnrun.command.reset`
+**Syntax:** `/jnr resethighscore <JNR-Name>`
+**Permission:** `jumpnrun.command.reset`
 
 ### Reloading the plugin
 Use the `/jnr reload` command to reload the entire plugin.
 
-**Syntax: ** `/jnr reload`
-**Permission: ** `jumpnrun.command.reload`
+**Syntax:** `/jnr reload`
+**Permission:** `jumpnrun.command.reload`
