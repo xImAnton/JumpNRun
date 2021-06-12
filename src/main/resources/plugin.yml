@@ -1,0 +1,11 @@
+name: JumpNRun
+version: ${project.version}
+main: de.ximanton.jumpnrun.Main
+api-version: 1.16
+authors: [ xImAnton_ ]
+description: A plugin for setting up lobby Jump 'n' Runs with ease
+commands:
+  jumpnrun:
+    description: Commands for the Jump'n'Run Plugin
+    aliases:
+      - jnr
